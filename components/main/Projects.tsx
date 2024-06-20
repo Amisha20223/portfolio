@@ -11,20 +11,27 @@ const Projects = () => {
         My Projects
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
+      <a href="https://github.com/Amisha20223/FINIUS" target="_blank" rel="noopener noreferrer">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/finius.png"
+          title="Finius"
+          description=""
+        />
+          </a>
+        <ProjectCard
+          src="/billing.png"
+          title="Billing System"
+          description=""
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/porti.png"
+          title="Portfolio"
+          description=""
         />
-        <ProjectCard
-          src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+         <ProjectCard
+          src="/foodi.png"
+          title="OrderMeal"
+          description=""
         />
       </div>
     </div>
