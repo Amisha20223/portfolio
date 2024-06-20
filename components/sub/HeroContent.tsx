@@ -33,12 +33,12 @@ const HeroContent = () => {
           className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
-            Providing
+          I 
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
-              the best{" "}
+              Turn Coffee{" "}
             </span>
-            project exprience
+            into Code and Dreams into Websites
           </span>
         </motion.div>
 
@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website Development. Check out my projects and skills.
+          I&apos;am dedicated to building interactive and dynamic web applications that not only look stunning but also provide a flawless user experience. By leveraging the latest frontend frameworks and best practices, I ensure that each project I work on is not only functional but also a joy to use.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
