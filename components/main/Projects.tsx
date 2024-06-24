@@ -15,13 +15,19 @@ const Projects = () => {
         <ProjectCard
           src="/finius.png"
           title="Finius"
-          description=""
+          description="• Developed educational solutions aimed at enhancing financial literacy.
+• Created interactive courses and resources covering budgeting, saving, investing, debt management, and retirement
+planning.
+• Implemented budget calculators, investment simulators, and retirement planning tools.
+• Enhanced user engagement through interactive financial education tools and resources."
         />
           </a>
         <ProjectCard
           src="/billing.png"
           title="Billing System"
-          description=""
+          description="• Constructed a comprehensive billing system using JavaScript and React..
+• Designed and implemented user-friendly interfaces for efficient billing and invoicing.
+• Integrated real-time data updates and responsive design to enhance user experience"
         />
         <ProjectCard
           src="/porti.png"
