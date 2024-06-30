@@ -12,7 +12,7 @@ import Image from "next/image";
 
 const HeroContent = () => {
   return (
-    <motion.div
+    <motion.div 
       initial="hidden"
       animate="visible"
       className="flex flex-row items-center justify-center px-20 mt-40 w-full z-[20]"
