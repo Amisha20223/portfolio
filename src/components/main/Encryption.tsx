@@ -1,8 +1,8 @@
 "use client";
 import React from "react";
-
+import { slideInFromTop } from '../../utils/motion';
 import { motion } from "framer-motion";
-import { slideInFromTop } from "@/utils/motion";
+
 import Image from "next/image";
  
 const Encryption = () => {
