@@ -30,15 +30,7 @@ planning.
 • Designed and implemented user-friendly interfaces for efficient billing and invoicing.
 • Integrated real-time data updates and responsive design to enhance user experience"
         />
-{/*         <ProjectCard
-          src="/porti.png"
-          title="Portfolio"
-          description=""
-        />
-         <ProjectCard
-          src="/foodi.png"
-          title="OrderMeal"
-          description="" */}
+
         />
       </div>
     </div>
