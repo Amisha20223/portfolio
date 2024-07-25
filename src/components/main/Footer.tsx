@@ -18,7 +18,7 @@ const Footer = () => {
             <div className="font-bold text-[16px]">Community</div>
             <p className="flex flex-row items-center my-[15px] cursor-pointer">
               <FaYoutube />
-              <a
+              <a 
                 href="https://www.youtube.com/"
                 target="_blank"
                 rel="noopener noreferrer"
